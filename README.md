@@ -8,7 +8,7 @@
    ### A.  Portfolio  de Alex trouver par par hazare
    [https://alex-portfolio-template.netlify.app/](https://alex-portfolio-template.netlify.app/)
   
-  ### B.  Portfolion de Serah
+  ### B.  Portfolio de Serah
  ####  Salut tout le monde !
 
 Je suis tombé sur un profil qui devrait tous nous inspirer : celui de Serah Abijo (Développeuse Fullstack et fondatrice de LinkRefine(son projet son bébé)).
@@ -35,7 +35,7 @@ Comme le montre l'exemple de Serah, la technique c'est bien, mais savoir se vend
 
 Partagez ici quand c’est fait on en discute
 
-  ### C.  Portfolion de Stéphane
+  ### C.  Portfolio de Stéphane
 
 
 [https://steph2pro.netlify.app/projects/web](Stéphane)
