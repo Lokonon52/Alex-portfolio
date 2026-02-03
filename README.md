@@ -5,9 +5,11 @@
 - Deployer sur netlifly[https://alex-portfolio1.netlify.app/](https://alex-portfolio1.netlify.app/)
 - Date 🔢: 08 septemptre 2025
   ## Autre portfolio
+   ### A.  Portfolio  de Alex trouver par par hazare
    [https://alex-portfolio-template.netlify.app/](https://alex-portfolio-template.netlify.app/)
   
-####  Salut tout le monde !
+  ### B.  Portfolion de Serah
+ ####  Salut tout le monde !
 
 Je suis tombé sur un profil qui devrait tous nous inspirer : celui de Serah Abijo (Développeuse Fullstack et fondatrice de LinkRefine(son projet son bébé)).
 
