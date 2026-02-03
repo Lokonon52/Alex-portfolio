@@ -22,7 +22,7 @@ C’est le "vrai" CV aujoud’hui : Un CV papier dit ce que vous savez faire, un
 Pour un recruteur, c'est une preuve immédiate de vos compétences.
 
 Ouvrir des portes : Serah a réussi à fédérer plus de 4 000 utilisateurs sur ses projets et se classe parmi les tops créateurs LinkedIn. 
-Cela montre qu'en étant visible, les opportunités viennent à vous au lieu de courir après.
+Cela montre qu'en étant visible, les opportunités   ### B.  Portfolion de Serahviennent à vous au lieu de courir après.
 
 Attirer des clients et recruteurs : Que vous cherchiez une alternance, un premier job ou des missions en freelance, avoir une vitrine en ligne permet de se présenter de manière professionnelle 24h/24.
 
@@ -34,3 +34,8 @@ Mon défi pour vous : Prenez 1h cette semaine pour mettre à jour votre profil L
 Comme le montre l'exemple de Serah, la technique c'est bien, mais savoir se vendre, c'est ce qui fait la différence ! 
 
 Partagez ici quand c’est fait on en discute
+
+  ### C.  Portfolion de Stéphane
+
+
+[https://steph2pro.netlify.app/projects/web](Stéphane)
