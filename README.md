@@ -11,8 +11,8 @@
 
 Je suis tombé sur un profil qui devrait tous nous inspirer : celui de Serah Abijo (Développeuse Fullstack et fondatrice de LinkRefine(son projet son bébé)).
 
-* [https://www.linkedin.com/in/serah-abijo/](🔗 Son LinkedIn )
-* [https://www.serahabijo.com/]( 📂 Son Portfolio :)
+ [https://www.linkedin.com/in/serah-abijo/](🔗 Son LinkedIn )
+ [https://www.serahabijo.com/]( 📂 Son Portfolio :)
 
 Pourquoi il faudrait tous faire de même ?
 
